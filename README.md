@@ -56,12 +56,19 @@ YTD ( year to date)
 **Power BI Learnings**:
 
 Creating calcualted columns and DAX measures
+
 Data Modelling ,data validation techniques and using KPI indicators
+
 Bookmarks to switch between two visuals and conditional formatting
+
 Page navigation with buttons
+
 Tooltips to save page area
+
 Dynamic titles based on the applied filters
+
 PowerBI services for publishing and sharing reports online
+
 Auto refresh setup for data through gateway
 
 
