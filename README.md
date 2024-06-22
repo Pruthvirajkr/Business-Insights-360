@@ -63,7 +63,10 @@ Tooltips to save page area
 Dynamic titles based on the applied filters
 PowerBI services for publishing and sharing reports online
 Auto refresh setup for data through gateway
-Tools Uesd
+
+
+**Tools Used**
+
 PowerBI Desktop
 PowerBI Service
 MYSQL database
@@ -72,7 +75,10 @@ Power Query
 DAX language
 Dax studio( TO REDUCE FILE SIZE)
 Project Charter file
-Soft Skills
+
+
+**Soft Skills**
+
 Building an interactive visual report.
 Develop a Problem Solving Mindset.
 Effective Communication with stackholders.
