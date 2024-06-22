@@ -9,35 +9,35 @@ AtliQ Business Insights 360 is an advanced data analytics project designed to en
 [Live dashboard link](https://lnkd.in/g8SX7_8u)
 
 
-Finance View:
+**Finance View**:
 
 Insights from P & L statements and sales trends.
 Implemented a financial forecasting model, resulting in more accurate budget predictions. Created benchmarking against last year and target goals for budgeting.
 
 
-Sales View: 
+**Sales View**: 
 
 Increase sales revenue with Customer and Product Performance
 Growth analysis over net sales and gross margin for customers and products.
 
-Marketing View: 
+**Marketing View**: 
 
 Implement data-driven marketing strategies
 Created region and product wise overall market performance report. Identified track KPIs for more insights.
 
 
-Supply Chain View:
+**Supply Chain View**:
 
 Identified forecast accuracy % , net error % ,absolute error % trends. Forecast Accuracy for products, segments, catefgories and customers.
 
 
-Executive View:
+**Executive View**:
 
 An Insightfull dashboard for top-level decision-makers.
 An executive dashboard for real-time performance monitoring. Shows revenue by by Top N customers & products.
 
 
-Key Business Metrics:
+**Key Business Metrics**:
 
 Net sales
 Net Invoice Sales
@@ -53,7 +53,7 @@ Variance
 YTG (year to go)
 YTD ( year to date)
 
-Power BI Learnings:
+**Power BI Learnings**:
 
 Creating calcualted columns and DAX measures
 Data Modelling ,data validation techniques and using KPI indicators
