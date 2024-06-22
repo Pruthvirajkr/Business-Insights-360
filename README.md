@@ -11,7 +11,7 @@ AtliQ Business Insights 360 is an advanced data analytics project designed to en
 
 **Finance View**:
 
-> 1.Insights from P & L statements and sales trends.
+> 1.Insights from P & L statements and sales trends.__
 > 2.Implemented a financial forecasting model, resulting in more accurate budget predictions. Created benchmarking against last year and target goals for budgeting.
 
 
