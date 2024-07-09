@@ -69,7 +69,7 @@
 > - PowerBI Desktop
 > - PowerBI Service
 > - MYSQL database
-> - MS.EXCEL
+> - MS EXCEL
 > - Power Query
 > - DAX language
 > - Dax studio( TO REDUCE FILE SIZE)
@@ -79,5 +79,5 @@
 
 > - Building an interactive visual report.
 > - Develop a Problem Solving Mindset.
-> - Effective Communication with stackholders.
+> - Effective Communication with stakeholders.
 > - Business and domain knowledge in sales,finance,marketing,market share and supply chain.
